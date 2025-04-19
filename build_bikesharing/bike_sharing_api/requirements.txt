@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+joblib
+pyyaml
+pytest
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psutil
+requests
+build
+./bikesharingrentals-0.1.18-py3-none-any.whl
