@@ -4,8 +4,8 @@ setup(
     name="BikeSharingRentals",
     version="0.1.18",
     description="Bike Sharing app prediction",
-    author="Nagappan Subramoni",
-    author_email="nagappans@gmail.com",
+    author="Srikrishnan Shankar",
+    author_email="srikrishnan.shankar@gmail.com",
     packages=find_packages(),
     install_requires=[
         "numpy",
