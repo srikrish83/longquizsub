@@ -47,7 +47,7 @@ class PredictionResponse(BaseModel):
     predicted_rentals: float
 
 
-@router.post("/predict/", response_model=PredictionResponse)
+@router.post("/predict", response_model=PredictionResponse)
 async def predict(request: PredictionRequest):
     """
     Predict bike rental demand based on input parameters.
